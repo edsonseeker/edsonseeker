@@ -9,14 +9,14 @@
 
 ## Tecnologias que uso no meu dia a dia! 🖌️🎨
 <div style="display: inline_block"><br/>
-<img align="center" alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
-<div style="display: inline_block"><br/>
-<img align="center" alt="Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
-<div style="display: inline_block"><br/>
-<img align="center" alt="Afteraffects" src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665" />
-<div style="display: inline_block"><br/>
-<img align="center" alt="Premiere" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
-</div>
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através dos meu projetos.
+  <img align="center" alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" /><div style="display: inline_block"><br/>
+  <img align="center" alt="Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
+  <div style="display: inline_block"><br/>
+    <img align="center" alt="Afteraffects" src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665" />
+    <div style="display: inline_block"><br/>
+      <img align="center" alt="Premiere" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
+</div><br/>
+  
+ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através dos meu projetos.
 
 
