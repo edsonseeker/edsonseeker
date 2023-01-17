@@ -8,12 +8,6 @@
 ![Edson GitHub Stats](https://github-readme-stats.vercel.app/api?username=edsonseeker&show_icons=true&theme=merko)
 
 ## Tecnologias que uso no meu dia a dia! 🖌️🎨
-[![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)](https://api.whatsapp.com/send/?phone=5581992019782&text&type=phone_number&app_absent=0)
-[![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)](https://api.whatsapp.com/send/?phone=5581992019782&text&type=phone_number&app_absent=0)
-[![Afteraffects](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)](https://api.whatsapp.com/send/?phone=5581992019782&text&type=phone_number&app_absent=0)
-[![Premiere](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)](https://api.whatsapp.com/send/?phone=5581992019782&text&type=phone_number&app_absent=0)
-
-
 <div style="display: inline_block"><br/>
 <img align="center" alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
 <div style="display: inline_block"><br/>
@@ -21,6 +15,6 @@
 <div style="display: inline_block"><br/>
 <img align="center" alt="Afteraffects" src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665" />
 <div style="display: inline_block"><br/>
-<img align="center" alt="Afteraffects" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
+<img align="center" alt="Premiere" src="[https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)" />
 </div>
 
